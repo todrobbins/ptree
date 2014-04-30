@@ -1,4 +1,4 @@
-# Gender Specification
+# Marriage Specification
 The representation of a marriage in the pTree Model.
 
 Note that no Gender restrictions have been added at the specification level. Historical integrity checks should be added at the application level.
