@@ -16,7 +16,7 @@ Note: This pulls heavily from the following GEDCOMX specs:
 * [Annulment](annulment.md)
 * [Birth](birth.md)
 * [Burial](burial.md)
-* [Christening](christening.md) TODO
+* [Christening](christening.md)
 * [Cremation](cremation.md)
 * [Death](death.md)
 * [Divorce](divorce.md)
