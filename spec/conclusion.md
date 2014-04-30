@@ -13,13 +13,13 @@ Note: This pulls heavily from the following GEDCOMX specs:
 # Conclusion Types
 
 * [Adoption](adoption.md)
-* [Annulment](annulment.md) TODO
+* [Annulment](annulment.md)
 * [Birth](birth.md)
 * [Burial](burial.md) TODO
 * [Christening](christening.md) TODO
 * [Cremation](cremation.md) TODO
 * [Death](death.md) TODO
-* [Divorce](divorce.md) TODO
+* [Divorce](divorce.md)
 * [Foster](foster.md) TODO
 * [Gender](gender.md) 
 * [Guardianship](guardianship.md) TODO
