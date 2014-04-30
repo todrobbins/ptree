@@ -13,7 +13,7 @@ Note that no Gender restrictions have been added at the specification level. His
 # Restrictions
 `None`
 
-Note: The reason 2 spouses are not required is that yout may only know one of them, which is perfectly fine.
+Note: The reason 2 spouses are not required is that you may only know one of them, which is perfectly fine.
 
 # Nodes
 
