@@ -5,14 +5,18 @@ The representation of a person's gender in the pTree Model.
 > Consider how to handle a sex change.
 > Possibly add an optional `gender_change` edge (with from and to properties) going from Gender to a Date.
 > May also need to add an optional property to Gender_Ref specifying which is the "Primary" gender.
+> Will need to change the one gender per person restriction.
 
 # Construction
 
 ![](../img/what/gender.png)
 
+# Restrictions
+* Only one Gender Reference per Person.
+
 # Nodes
 
-## Gender
+### Gender
 
 **Label** `Gender`
 
@@ -22,7 +26,7 @@ The representation of a person's gender in the pTree Model.
 
 # Edges
 
-## Gender Reference
+### Gender Reference
 
 **Label** `Gender_Ref`
 

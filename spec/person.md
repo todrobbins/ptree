@@ -9,9 +9,12 @@ The representation of a person in the pTree Model.
 
 ![](../img/what/person.png)
 
+# Restrictions
+`None`
+
 # Nodes
 
-## Person
+### Person
 
 **Label** `Person`
 
