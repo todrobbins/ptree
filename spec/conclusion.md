@@ -12,7 +12,7 @@ Note: This pulls heavily from the following GEDCOMX specs:
 
 # Conclusion Types
 
-* [Adoption](adoption.md) TODO
+* [Adoption](adoption.md)
 * [Annulment](annulment.md) TODO
 * [Birth](birth.md)
 * [Burial](burial.md) TODO
