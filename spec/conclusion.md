@@ -1,7 +1,7 @@
 # Conclusion Specification
 An abstract concept encompassing Events, Facts, Relationships, etc..
 
-Note: This pulls heavlily from the following GEDCOMX specs:
+Note: This pulls heavily from the following GEDCOMX specs:
 > https://github.com/FamilySearch/gedcomx/blob/master/specifications/event-types-specification.md
 > https://github.com/FamilySearch/gedcomx/blob/master/specifications/fact-types-specification.md
 > https://familysearch.org/developers/docs/guides/facts
