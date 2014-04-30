@@ -13,6 +13,8 @@ Note that the father and mother are BIOLOGICAL father and mother. There are othe
 
 # Restrictions
 * Only one child per birth.
+* Only one father per birth.
+* Only one mother per birth.
 * Only one date per birth.
 * Only one place per birth. 
 
