@@ -11,7 +11,9 @@ Note that no Gender restrictions have been added at the specification level. His
 ![](../img/what/marriage.png)
 
 # Restrictions
-* 2 Spouse edges are required.
+`None`
+
+Note: The reason 2 spouses are not required is that yout may only know one of them, which is perfectly fine.
 
 # Nodes
 
