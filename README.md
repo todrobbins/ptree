@@ -8,6 +8,7 @@ This document follows Semantic Versioning 2.0.0 as found [here](http://semver.or
 
 # 2 Parts
 // TODO explanation of "What" and "Why"
+
 ![](img/what-why.png)
 
 # A Note on Scoping
@@ -15,13 +16,12 @@ vGraph Labels are used to "type" each node and edge.
 As such, they must be unique within the pTree namespace.
 Also, subtyping is accomplished with a common prefix, like `name_part`. // TODO change example to one that actually occurs.
 
-# Why
-
 # What
 This models what is/was.
 // TODO more explanation
 
 ![](img/what.png)
+
 Note that each of these boxes could be a subgraph.
 Also note that the edges connecting the various pieces can contain properties.
 Also note that the conclusion contains the edges going to Person, Place, and Date.
@@ -48,3 +48,21 @@ A Representation of a date (approximate or specific) or date range.
 A place somewhere on planet earth (for now).
 
 [spec](spec/place.md)
+
+
+
+# Why
+The representation of the research process used.
+There are many different research processes, each with its own set of nodes and edges.
+Each particular Why, or research process, is namespaced such that it does not interfere with anything else.
+Additionally, each Why implementation connects to various Whats (person, conclusion, place, date) using Why Connectors (see below).
+
+## List of Implementations
+
+* [Note](spec/note.md) - The simplest implementation.
+
+
+# Why Connector
+The connection between Whys and Whats is accomplished through an Edge labeled `why`.
+
+[spec](spec/why.md)
