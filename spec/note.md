@@ -4,6 +4,7 @@ The simplest of Whys, an attached note!
 # TODO
 > Add language
 > Maybe add subject?
+> What about attribution? commit author vs external attribution
 
 # Construction
 
