@@ -15,10 +15,10 @@ Note: This pulls heavily from the following GEDCOMX specs:
 * [Adoption](adoption.md)
 * [Annulment](annulment.md)
 * [Birth](birth.md)
-* [Burial](burial.md) TODO
+* [Burial](burial.md)
 * [Christening](christening.md) TODO
-* [Cremation](cremation.md) TODO
-* [Death](death.md) TODO
+* [Cremation](cremation.md)
+* [Death](death.md)
 * [Divorce](divorce.md)
 * [Foster](foster.md) TODO
 * [Gender](gender.md) 
