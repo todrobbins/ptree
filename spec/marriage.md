@@ -4,7 +4,8 @@ The representation of a marriage in the pTree Model.
 Note that no Gender restrictions have been added at the specification level. Historical integrity checks should be added at the application level.
 
 ## TODO
-> Consider adding additional edge labels to handle guests and other roles (best man, etc.)
+> Consider adding additional edge labels to handle guests and other roles (best man, etc.).
+> Consider adding a property to handle marriage vs. common law marriage.
 
 # Construction
 
