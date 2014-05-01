@@ -5,8 +5,7 @@ Even if we don't have any UI to show a particular why, we can still show that th
 
 # Construction
 
-// TODO add image?
-
+![](../img/why-connector.png)
 
 # Why Connector Specification
 Note that each implementation can store information in the Why Connector's properties.
