@@ -75,3 +75,13 @@ The connection between Whys and Whats is accomplished through an Edge labeled `W
 vGraph Labels are used to "type" each node and edge.
 As such, they must be unique within the pTree namespace.
 Also, subtyping is accomplished with a common prefix, like `name_part`. // TODO change example to one that actually occurs.
+
+The following list of labels are reserved for system use:
+
+* `Conclusion`
+* `Commit`
+* `Graph`
+* `Node`
+* `Edge`
+* `Patch`
+* `User`
