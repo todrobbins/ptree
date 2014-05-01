@@ -7,16 +7,19 @@ This document follows Semantic Versioning 2.0.0 as found [here](http://semver.or
 
 
 # 2 Parts
-// TODO explanation of "What" and "Why"
+pTree splits its data into two parts, the What and the Why, and connects these together with a standard interface. It also allows multiple Whys, or research processes/methodologies, to coexist through namespacing.
 
 ![](img/what-why.png)
 
+In the image above you can see 3 "Whys", all different colors. Each color represents a different "Why Model", and they are all pointing to the same "What".
+
+You will also notice that the pointers from each "Why" are the same color as the "Why". This is because each pointer is scoped to the "Why" and the "Why Model" it represents.
 
 # What
-This models what is/was.
-// TODO more explanation
 
 ![](img/what.png)
+
+This is the basic diagram of how things are organized at the What level. In it we are Person-centric, with Conclusions being associated with a Person, Dates, Places, and other Persons.
 
 Note that each of these boxes could be a subgraph.
 Also note that the edges connecting the various pieces can contain properties.
@@ -60,6 +63,9 @@ Additionally, each Why implementation connects to various Whats (person, conclus
 
 
 # Why Connector
+
+![](img/why-connector.png)
+
 The connection between Whys and Whats is accomplished through an Edge labeled `Why`.
 
 [spec](spec/why.md)
