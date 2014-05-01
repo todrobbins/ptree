@@ -9,7 +9,7 @@ The simplest of Whys, an attached note!
 
 # Construction
 
-![](../img/what/note.png)
+![](../img/why/note.png)
 
 # Nodes
 
