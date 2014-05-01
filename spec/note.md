@@ -5,8 +5,11 @@ The simplest of Whys, an attached note!
 > Add language
 > Maybe add subject?
 > What about attribution? commit author vs external attribution
+> Timestamp of somesort? Or handle via node creation?
 
 # Construction
+
+![](../img/what/note.png)
 
 # Nodes
 
