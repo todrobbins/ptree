@@ -14,6 +14,7 @@ Note that no Gender restrictions have been added at the specification level. His
 # Restrictions
 * Only one date per marriage.
 * Only one place per marriage.
+* A maximum of 2 spouses.
 
 Note: The reason 2 spouses are not required is that you may only know one of them, which is perfectly fine.
 
