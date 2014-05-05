@@ -25,7 +25,7 @@ The representation of a place in the pTree model
 
 **Properties**
 
-* `original`(String) - The original place string (fully qualified).
+* `name`(String) - The original place string (fully qualified).
 
 # Edges
 `None`
